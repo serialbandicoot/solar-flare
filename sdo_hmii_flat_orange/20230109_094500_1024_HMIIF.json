@@ -86,6 +86,23 @@
       "description": "",
       "shape_type": "rectangle",
       "flags": {}
+    },
+    {
+      "label": "flare",
+      "points": [
+        [
+          418.7567567567567,
+          297.81081081081084
+        ],
+        [
+          460.6486486486486,
+          331.59459459459464
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "20230109_094500_1024_HMIIF.jpg",
