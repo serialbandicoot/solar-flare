@@ -162,3 +162,7 @@ cython_debug/
 models
 
 .DS_Store
+
+yolov8_v*
+
+.vscode/settings.json
