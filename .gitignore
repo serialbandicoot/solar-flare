@@ -163,6 +163,6 @@ models
 
 .DS_Store
 
-yolov8_v*
+dataset/*
 
 .vscode/settings.json
