@@ -163,6 +163,6 @@ models
 
 .DS_Store
 
-dataset/*
+# dataset/*
 
 .vscode/settings.json
