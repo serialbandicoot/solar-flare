@@ -166,3 +166,5 @@ models
 # dataset/*
 
 .vscode/settings.json
+
+model.keras
