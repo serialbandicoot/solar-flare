@@ -5,4 +5,5 @@ numpy==1.24.3
 tensorflow==2.15.0
 opencv-python==4.9.0.80
 roboflow
-
+tqdm
+opencv-python
