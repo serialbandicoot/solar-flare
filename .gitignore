@@ -164,7 +164,7 @@ model.keras
 
 .DS_Store
 
-# dataset/*
+dataset/*
 
 .vscode/settings.json
 
